@@ -153,6 +153,6 @@ AimbotTab:CreateButton({
    Name = "Hit Box🟥",
    Description = "ขยาย hitbox ตัวละคร",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/evropeec-322/RobloxScript/main/Skript.lua"))()
+      loadstring(game:HttpGet("https://pastefy.app/ItfO0tdg/raw"))()
    end
 })
