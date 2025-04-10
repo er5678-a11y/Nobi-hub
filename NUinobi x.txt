@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Nobi X Hub",
+   Name = "👑Nobi X Hub",
    Icon = 0,
    LoadingTitle = "🌐Nobi X Hub",
    LoadingSubtitle = "Loading Scripts...",
