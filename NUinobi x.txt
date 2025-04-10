@@ -146,8 +146,8 @@ AimbotTab:CreateButton({
    Name = "Aimbot Player🎯",
    Description = "ล็อกเป้ายิง",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Equinox-Hub/main/Aimbots/directions.lua", true))()
-   end
+      loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Aimbot-Universal-For-Mobile-and-PC-29153"))()
+  end
 })
 AimbotTab:CreateButton({
    Name = "Hit Box🟥",
