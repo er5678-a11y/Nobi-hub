@@ -156,3 +156,10 @@ AimbotTab:CreateButton({
       loadstring(game:HttpGet("https://pastefy.app/ItfO0tdg/raw"))()
    end
 })
+AimbotTab:CreateButton({
+   Name = "NXESP Player☠️",
+   Description = "แสดงตำแหน่งผู้เล่น(ผมทำเอง)",
+   Callback = function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/er5678-a11y/Spnobi/refs/heads/main/epsnobi.txt"))()
+   end
+})
