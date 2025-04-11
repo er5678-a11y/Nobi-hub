@@ -169,3 +169,4 @@ AimbotTab:CreatButton({
  Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/er5678-a11y/NXhieps/refs/heads/main/Highlights"))()
 end
+})
