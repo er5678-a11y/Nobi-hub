@@ -163,10 +163,10 @@ AimbotTab:CreateButton({
       loadstring(game:HttpGet("https://raw.githubusercontent.com/er5678-a11y/Spnobi/refs/heads/main/epsnobi.txt"))()
    end
 })
-AimbotTab:CreatButton({
- Name = "HL_EPS NX🎖️"
- Description = "แสดงตำแหน่งผู้เล่น(ผมทำเอง)"
- Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/er5678-a11y/NXhieps/refs/heads/main/Highlights"))()
-end
+AimbotTab:CreateButton({
+   Name = "HL_EPS NX🎖️",
+   Description = "แสดงตำแหน่งผู้เล่น(ผมทำเอง)",
+   Callback = function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/er5678-a11y/NXhieps/refs/heads/main/Highlights"))()
+   end
 })
